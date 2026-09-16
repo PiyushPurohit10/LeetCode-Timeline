@@ -26,7 +26,6 @@ public:
                 end = mid - 1; 
             }
         }
-
         return ans;
     }
 };
