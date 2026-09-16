@@ -29,6 +29,7 @@ My Collection + Timeline Of Leetcode Questions Solved By Me!
 | [1470-shuffle-the-array](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/1512-number-of-good-pairs) |
+| [1552-magnetic-force-between-two-balls](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/1552-magnetic-force-between-two-balls) |
 | [1572-matrix-diagonal-sum](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/1920-build-array-from-permutation) |
@@ -96,6 +97,7 @@ My Collection + Timeline Of Leetcode Questions Solved By Me!
 | [0349-intersection-of-two-arrays](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/0977-squares-of-a-sorted-array) |
+| [1552-magnetic-force-between-two-balls](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/1552-magnetic-force-between-two-balls) |
 ## Binary Search
 |  |
 | ------- |
@@ -107,6 +109,7 @@ My Collection + Timeline Of Leetcode Questions Solved By Me!
 | [0410-split-array-largest-sum](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1552-magnetic-force-between-two-balls](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/1552-magnetic-force-between-two-balls) |
 ## Bit Manipulation
 |  |
 | ------- |
