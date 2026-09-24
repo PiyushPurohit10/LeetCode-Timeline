@@ -36,6 +36,7 @@ My Collection + Timeline Of Leetcode Questions Solved By Me!
 | [1552-magnetic-force-between-two-balls](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/1552-magnetic-force-between-two-balls) |
 | [1572-matrix-diagonal-sum](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/1672-richest-customer-wealth) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1920-build-array-from-permutation](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/1920-build-array-from-permutation) |
 | [2815-max-pair-sum-in-an-array](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/2815-max-pair-sum-in-an-array) |
 | [3875-construct-uniform-parity-array-i](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/3875-construct-uniform-parity-array-i) |
