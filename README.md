@@ -91,6 +91,7 @@ My Collection + Timeline Of Leetcode Questions Solved By Me!
 | [0027-remove-element](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/0283-move-zeroes) |
@@ -179,5 +180,6 @@ My Collection + Timeline Of Leetcode Questions Solved By Me!
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
