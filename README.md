@@ -84,6 +84,7 @@ My Collection + Timeline Of Leetcode Questions Solved By Me!
 ## Simulation
 |  |
 | ------- |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1920-build-array-from-permutation](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/1920-build-array-from-permutation) |
 ## Two Pointers
 |  |
@@ -183,4 +184,9 @@ My Collection + Timeline Of Leetcode Questions Solved By Me!
 | ------- |
 | [0125-valid-palindrome](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/0344-reverse-string) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/1910-remove-all-occurrences-of-a-substring) |
+## Stack
+|  |
+| ------- |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/1910-remove-all-occurrences-of-a-substring) |
 <!---LeetCode Topics End-->
