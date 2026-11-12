@@ -9,6 +9,7 @@ My Collection + Timeline Of Leetcode Questions Solved By Me!
 | [0026-remove-duplicates-from-sorted-array](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/0033-search-in-rotated-sorted-array) |
+| [0048-rotate-image](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/0075-sort-colors) |
@@ -45,6 +46,7 @@ My Collection + Timeline Of Leetcode Questions Solved By Me!
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/0054-spiral-matrix) |
 | [0498-diagonal-traverse](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/0498-diagonal-traverse) |
 | [1572-matrix-diagonal-sum](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/1572-matrix-diagonal-sum) |
@@ -70,6 +72,7 @@ My Collection + Timeline Of Leetcode Questions Solved By Me!
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/0231-power-of-two) |
