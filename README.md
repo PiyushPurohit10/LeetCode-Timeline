@@ -25,6 +25,7 @@ My Collection + Timeline Of Leetcode Questions Solved By Me!
 | [0410-split-array-largest-sum](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/0410-split-array-largest-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0498-diagonal-traverse](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/0498-diagonal-traverse) |
 | [0704-binary-search](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -43,6 +44,7 @@ My Collection + Timeline Of Leetcode Questions Solved By Me!
 ## Matrix
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/0498-diagonal-traverse) |
 | [1572-matrix-diagonal-sum](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/1672-richest-customer-wealth) |
 ## Prefix Sum
@@ -84,6 +86,7 @@ My Collection + Timeline Of Leetcode Questions Solved By Me!
 ## Simulation
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/0498-diagonal-traverse) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1920-build-array-from-permutation](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/1920-build-array-from-permutation) |
 ## Two Pointers
