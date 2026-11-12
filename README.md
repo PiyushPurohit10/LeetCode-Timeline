@@ -10,6 +10,7 @@ My Collection + Timeline Of Leetcode Questions Solved By Me!
 | [0027-remove-element](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -44,6 +45,7 @@ My Collection + Timeline Of Leetcode Questions Solved By Me!
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/0054-spiral-matrix) |
 | [0498-diagonal-traverse](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/0498-diagonal-traverse) |
 | [1572-matrix-diagonal-sum](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/1672-richest-customer-wealth) |
@@ -86,6 +88,7 @@ My Collection + Timeline Of Leetcode Questions Solved By Me!
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/0054-spiral-matrix) |
 | [0498-diagonal-traverse](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/0498-diagonal-traverse) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1920-build-array-from-permutation](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/1920-build-array-from-permutation) |
