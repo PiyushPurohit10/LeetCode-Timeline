@@ -12,6 +12,7 @@ My Collection + Timeline Of Leetcode Questions Solved By Me!
 | [0048-rotate-image](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/0054-spiral-matrix) |
+| [0074-search-a-2d-matrix](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -48,6 +49,7 @@ My Collection + Timeline Of Leetcode Questions Solved By Me!
 | ------- |
 | [0048-rotate-image](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/0054-spiral-matrix) |
+| [0074-search-a-2d-matrix](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/0074-search-a-2d-matrix) |
 | [0498-diagonal-traverse](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/0498-diagonal-traverse) |
 | [1572-matrix-diagonal-sum](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/1672-richest-customer-wealth) |
@@ -125,6 +127,7 @@ My Collection + Timeline Of Leetcode Questions Solved By Me!
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/0167-two-sum-ii-input-array-is-sorted) |
