@@ -10,7 +10,7 @@ public:
             if (target == matrix[rowIndex][colIndex]) {
                 return true;
             }
-             if (target > matrix[rowIndex][colIndex]) {
+            if (target > matrix[rowIndex][colIndex]) {
                 rowIndex++;
             }
             else {
