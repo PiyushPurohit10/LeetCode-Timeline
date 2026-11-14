@@ -22,6 +22,7 @@ My Collection + Timeline Of Leetcode Questions Solved By Me!
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/0283-move-zeroes) |
@@ -79,6 +80,7 @@ My Collection + Timeline Of Leetcode Questions Solved By Me!
 | [0048-rotate-image](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/0509-fibonacci-number) |
 | [1486-xor-operation-in-an-array](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/1486-xor-operation-in-an-array) |
@@ -186,6 +188,7 @@ My Collection + Timeline Of Leetcode Questions Solved By Me!
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/0204-count-primes) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Newton's Method
 |  |
@@ -207,4 +210,20 @@ My Collection + Timeline Of Leetcode Questions Solved By Me!
 | ------- |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/1910-remove-all-occurrences-of-a-substring) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
